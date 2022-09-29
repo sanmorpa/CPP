@@ -1,0 +1,9 @@
+Esto es un texto de prueba
+Tiene palabras diferentes
+Tiene saltos de linea vacios
+
+
+y además repite palabras:
+hola hola hola hola
+
+
