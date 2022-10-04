@@ -17,7 +17,7 @@ This repository shows my answers to the C++ Piscine at 42 Madrid. The modules ar
   * [CPP07](#cpp07)
   * [CPP08](#cpp08)
 
-## CPP00
+## CPP00 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl8uf09z900060gl2pg6sdczb/project/2769869" alt="samoreno's 42 CPP Module 00 Score" /></a>
 This module aims to teach abourt Namespace, class, member functions, stdio stream, initialization lists, static, const, and other basic concepts.
 
 ### Ex00
@@ -55,7 +55,7 @@ The Account.hpp file is present and a quick compilation of tests.cpp confirms th
 So you need to create a Account.cpp file and quickly write some lines of pure awesome C++ and after a couple of failed compilations, your program will compiles and passes the tests with a perfect output, except for the timestamps differences. Damn you’re good!
 
 [back to Top](#cpp)
-## CPP01
+## CPP01 [![samoreno's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cl8uf09z900060gl2pg6sdczb/project/2797118)](https://github.com/JaeSeoKim/badge42)
 This module aims to teach about Memory allocation, references, pointers to members, switch statement.
 ### Ex00
 First, make a Zombie class. The zombies have a private name and are able to announce themselves like:\
@@ -129,7 +129,7 @@ This is unacceptable, I want to speak to the manager now.
 There are many ways to filter Karen, but one of the best ones is to SWITCH her off ;) You must use, and maybe discover, the switch statement in this exercise.
 
 [back to Top](#cpp)
-## CPP02
+## CPP02 [![samoreno's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cl8uf09z900060gl2pg6sdczb/project/2797118)](https://github.com/JaeSeoKim/badge42)
 This module aims to teach about Ad-hoc polymorphism, operators overload and orthodox canonical classes
 
 ### Ex00
@@ -194,7 +194,7 @@ Now, you should write the function bsp:
 Don’t forget to submit your main with some tests to prove that your class works as intended.
 
 [back to Top](#cpp)
-## CPP03
+## CPP03 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl8uf09z900060gl2pg6sdczb/project/2812161" alt="samoreno's 42 CPP Module 03 Score" /></a>
 
 [back to Top](#cpp)
 ## CPP04
